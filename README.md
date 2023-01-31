@@ -1,5 +1,5 @@
 # ASCII-art-java
-Software that converts image files to ASCII art
+> Software that converts image files to ASCII art
 
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/ASCII-art-java/blob/main/ascii-example.png" />
 
