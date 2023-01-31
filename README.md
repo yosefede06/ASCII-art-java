@@ -12,7 +12,3 @@ Image Representation: To represent an image, we need to read the image file and 
 ASCII Art Conversion: To convert the image into ASCII art, we need to map the color intensity of each pixel to an ASCII character. This can be done by dividing the intensity into a certain number of levels and assigning an ASCII character to each level. For example, a character with higher intensity can be mapped to a full block character (█), while a character with lower intensity can be mapped to a less dense character (.).
 
 User Interface: A user interface can be built to provide an option for the user to select the image file and choose the desired output format. The output can either be printed to the console or saved as an HTML file, which will allow for the ASCII art to be viewed in a browser.
-
-Conclusion:
-
-This exercise demonstrates the concept of object-oriented programming in Java and the process of converting an image into ASCII art. By breaking down the problem into smaller components, such as reading the image data, converting the pixel colors into ASCII characters, and providing a user interface, the task can be simplified and made more manageable.
