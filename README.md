@@ -3,6 +3,7 @@ Software that converts image files to ASCII art
 
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/ASCII-art-java/blob/main/ascii-example.png" />
 
+
 Solution Overview:
 
 The main idea is to convert an image file into ASCII art. This involves reading the image file, processing the image data and converting each pixel into an ASCII character based on its color intensity. The resulting ASCII image can be either printed to the console or saved as an HTML file.
